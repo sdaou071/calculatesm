@@ -1,0 +1,8 @@
+{
+  "name": "calculatesm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "75166a85"
+}
